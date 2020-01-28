@@ -3,5 +3,5 @@ new_array = []
 numbers.each |number|
  new_array << number ** 2
 end
-new_array
+ return new_array
 end
